@@ -1,0 +1,11 @@
+.reservation-area{
+	background:url(../img/services/wedding.jpg)
+	no-repeat center/cover}.reservation-area
+	.overlay-bg{background:rgba(17,22,24,0.75)
+}
+
+.reservation-area:nth-last-of-type(2){
+	background:url(../img/services/tasting.jpg)
+	no-repeat center/cover}.reservation-area
+	.overlay-bg{background:rgba(17,22,24,0.75)
+}
